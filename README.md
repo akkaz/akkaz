@@ -106,7 +106,7 @@ akkaz@valcamonica:~$ cat ~/about.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akkaz&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akkaz&show_icons=true&hide_border=true&disable_animations=true&count_private=true&hide=stars&rank_icon=github&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaz&layout=compact&hide_border=true&disable_animations=true&langs_count=8&bg_color=09090b&title_color=ff4017&text_color=a1a1aa" />
 
 <br/>
