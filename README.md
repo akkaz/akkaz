@@ -1,14 +1,13 @@
-<!-- ┌─────────────────────────────────────────────────────────────┐ -->
-<!--   akkaz · profile README · brand: coral #ff4017 / zinc-950     -->
-<!-- └─────────────────────────────────────────────────────────────┘ -->
+<!-- akkaz · profile README · brand: coral #ff4017 / zinc-950 -->
 
 <div align="center">
 
-<a href="https://akkaz.dev">
-  <img src="./assets/github-header.png" alt="Gio Marco Baglioni — AI Engineer & Full-Stack Developer" width="100%" />
-</a>
+### `akkaz@valcamonica:~$ whoami`
 
-<br/>
+# Gio Marco Baglioni
+**AI Engineer · Full-Stack Developer**
+
+`From idea to production-grade agent — no fluff._`
 
 <a href="https://akkaz.dev"><img src="https://img.shields.io/badge/akkaz.dev-09090b?style=flat-square&logo=vercel&logoColor=ff4017&labelColor=09090b" alt="akkaz.dev" /></a>
 <a href="https://www.linkedin.com/in/giomarcobaglioni"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=ff4017&labelColor=09090b" alt="LinkedIn" /></a>
@@ -16,23 +15,6 @@
 <img src="https://komarev.com/ghpvc/?username=akkaz&label=PROFILE%20VIEWS&color=ff4017&style=flat-square&labelColor=09090b" alt="views" />
 
 </div>
-
----
-
-```bash
-akkaz@valcamonica:~$ cat ~/about.txt
-```
-
-> **AI Engineer & Full-Stack Developer** dalla Valle Camonica.
-> Dopo **10+ anni** di sviluppo web sono andato all-in sull'AI: oggi progetto e porto
-> in **produzione** agenti, sistemi multi-agente e pipeline RAG — dal prototipo al deploy.
->
-> `+` **Soluzioni AI su misura** — agenti che ragionano, decidono e agiscono.
-> `+` **Sviluppo web & software** — gestionali, app e portali (Next.js · Python · Drupal).
-> `+` **Consulenza & formazione AI** — strategia, workshop e corsi pratici per team e aziende.
->
-> Nessun vendor lock-in: scelgo la tecnologia giusta per il problema. Niente fuffa, solo codice che funziona.
-> Su internet sono **akkaz** → parla con il mio agente su **[akkaz.dev](https://akkaz.dev)**.
 
 ---
 
@@ -59,43 +41,6 @@ akkaz@valcamonica:~$ cat ~/about.txt
 
 ---
 
-### `~/ work` — progetti in evidenza
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[AIportfolio](https://github.com/akkaz/AIportfolio)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" />
-<br/>Portfolio con agente AI conversazionale (Vercel AI SDK · tool calling · MongoDB) → **[akkaz.dev](https://akkaz.dev)**
-
-</td>
-<td width="50%" valign="top">
-
-**[tft-companion](https://github.com/akkaz/tft-companion)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" />
-<br/>Calcolatore di probabilità + match tracker per TFT: modello di contestazione, import partite Riot.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[eu-funding-matcher](https://github.com/akkaz/eu-funding-matcher)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" />
-<br/>Matching di bandi e finanziamenti europei su profilo aziendale.
-
-</td>
-<td width="50%" valign="top">
-
-**[ccstatusline-gradient](https://github.com/akkaz/ccstatusline-gradient)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" /> <img src="https://img.shields.io/github/stars/akkaz/ccstatusline-gradient?style=flat-square&color=ff4017&labelColor=09090b&logo=github&logoColor=ff4017" />
-<br/>Status line per Claude Code con gradienti e colori dinamici.
-
-</td>
-</tr>
-</table>
-
-> **Progetti reali (codice privato/aziendale)** &nbsp;`+` **OnePAC** — gestionale enterprise per cantieri, Drupal 11 · PWA &nbsp;`+` **in-fly** — gestionale di produzione per meccanica di precisione aerospace, PWA a bordo macchina &nbsp;`+` sistema di supervisione **multi-agente** per Forma Aquae &nbsp;`+` consulenza AI per la formazione medica &nbsp;`+` **9 agenti AI** ad Hackapizza 2.0 (4&deg;/26 team).
-
----
-
 ### `~/ stats`
 
 <div align="center">
@@ -113,20 +58,21 @@ akkaz@valcamonica:~$ cat ~/about.txt
 
 ### `~/ certs`
 
-`+` **Claude Code in Action** · Anthropic &nbsp;·&nbsp; `+` **Introduction to Agent Skills** · Anthropic &nbsp;·&nbsp; `+` in corso: **Claude Certified Architect — Foundations**
+**Anthropic Academy** — completed course certificates
 
----
+`+` [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action) ·
+[Introduction to Agent Skills](https://anthropic.skilljar.com/introduction-to-agent-skills) ·
+[Building with the Claude API](https://anthropic.skilljar.com/claude-with-the-anthropic-api) ·
+[Introduction to MCP](https://anthropic.skilljar.com/introduction-to-model-context-protocol) ·
+[MCP: Advanced Topics](https://anthropic.skilljar.com/model-context-protocol-advanced-topics) ·
+[Claude with Amazon Bedrock](https://anthropic.skilljar.com/claude-in-amazon-bedrock) ·
+[Claude 101](https://anthropic.skilljar.com/claude-101)
 
-<!-- snake contribution animation (generato dalla GitHub Action sul branch output) -->
-<div align="center">
+`+` AI Fluency · [Framework & Foundations](https://anthropic.skilljar.com/ai-fluency-framework-foundations) ·
+[for Educators](https://anthropic.skilljar.com/ai-fluency-for-educators) ·
+[for Students](https://anthropic.skilljar.com/ai-fluency-for-students) ·
+[for Nonprofits](https://anthropic.skilljar.com/ai-fluency-for-nonprofits) ·
+[for Small Businesses](https://anthropic.skilljar.com/ai-fluency-for-small-businesses) ·
+[Teaching AI Fluency](https://anthropic.skilljar.com/teaching-ai-fluency)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akkaz/akkaz/output/snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/akkaz/akkaz/output/snake.svg" />
-</picture>
-
-<br/><br/>
-
-<sub><code>akkaz@valcamonica:~$</code> <b>Costruiamo qualcosa insieme</b> → <a href="https://akkaz.dev">akkaz.dev</a><span style="color:#ff4017">_</span></sub>
-
-</div>
+`+` In progress · **Claude Certified Architect — Foundations (CCA-F)**
