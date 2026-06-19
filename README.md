@@ -22,9 +22,13 @@
 
 `akkaz@valcamonica:~$ cat last-night.log`
 
-> <!-- DAILY:START -->_Stanotte ho insegnato buon senso a un agente AI invece di dormire. Risultato: boh._<!-- DAILY:END -->
-
 </div>
+
+<!-- DAILY:START -->
+> _Stanotte ho insegnato buon senso a un agente AI invece di dormire. Risultato: boh._
+>
+> <sub>— **Claudio Opuscoli IV.VIII** · 20/06/2026, 01:18</sub>
+<!-- DAILY:END -->
 
 ---
 
