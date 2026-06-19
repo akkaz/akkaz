@@ -69,32 +69,36 @@ akkaz@valcamonica:~$ cat ~/about.txt
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![ForMe](https://github-readme-stats.vercel.app/api/pin/?username=akkaz&repo=ForMe-Learning-Hub&hide_border=true&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017)](https://github.com/akkaz/ForMe-Learning-Hub)
+**[AIportfolio](https://github.com/akkaz/AIportfolio)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" />
+<br/>Portfolio con agente AI conversazionale (Vercel AI SDK · tool calling · MongoDB) → **[akkaz.dev](https://akkaz.dev)**
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![tft-companion](https://github-readme-stats.vercel.app/api/pin/?username=akkaz&repo=tft-companion&hide_border=true&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017)](https://github.com/akkaz/tft-companion)
+**[tft-companion](https://github.com/akkaz/tft-companion)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" />
+<br/>Calcolatore di probabilità + match tracker per TFT: modello di contestazione, import partite Riot.
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![AIportfolio](https://github-readme-stats.vercel.app/api/pin/?username=akkaz&repo=AIportfolio&hide_border=true&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017)](https://github.com/akkaz/AIportfolio)
+**[eu-funding-matcher](https://github.com/akkaz/eu-funding-matcher)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" />
+<br/>Matching di bandi e finanziamenti europei su profilo aziendale.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-[![eu-funding-matcher](https://github-readme-stats.vercel.app/api/pin/?username=akkaz&repo=eu-funding-matcher&hide_border=true&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017)](https://github.com/akkaz/eu-funding-matcher)
+**[ccstatusline-gradient](https://github.com/akkaz/ccstatusline-gradient)** &nbsp;<img src="https://img.shields.io/badge/TypeScript-09090b?style=flat-square&logo=typescript&logoColor=ff4017" /> <img src="https://img.shields.io/github/stars/akkaz/ccstatusline-gradient?style=flat-square&color=ff4017&labelColor=09090b&logo=github&logoColor=ff4017" />
+<br/>Status line per Claude Code con gradienti e colori dinamici.
 
 </td>
 </tr>
 </table>
 
-> **Altri progetti reali** (codice privato/aziendale): **OnePAC** gestionale enterprise per cantieri (Drupal 11 · PWA) · **in-fly** gestionale di produzione per meccanica di precisione aerospace (PWA a bordo macchina) · sistema di supervisione **multi-agente** per Forma Aquae · consulenza AI per formazione medica.
+> **Progetti reali (codice privato/aziendale)** &nbsp;`+` **OnePAC** — gestionale enterprise per cantieri, Drupal 11 · PWA &nbsp;`+` **in-fly** — gestionale di produzione per meccanica di precisione aerospace, PWA a bordo macchina &nbsp;`+` sistema di supervisione **multi-agente** per Forma Aquae &nbsp;`+` consulenza AI per la formazione medica &nbsp;`+` **9 agenti AI** ad Hackapizza 2.0 (4&deg;/26 team).
 
 ---
 
@@ -102,16 +106,12 @@ akkaz@valcamonica:~$ cat ~/about.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akkaz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaz&layout=compact&hide_border=true&langs_count=8&bg_color=09090b&title_color=ff4017&text_color=a1a1aa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akkaz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&cache_seconds=21600&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaz&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600&bg_color=09090b&title_color=ff4017&text_color=a1a1aa" />
 
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=akkaz&hide_border=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=akkaz&theme=onestar&no-bg=true&no-frame=true&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" />
 
 </div>
 
