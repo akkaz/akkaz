@@ -7,7 +7,7 @@
 # Gio Marco Baglioni
 **AI Engineer · Full-Stack Developer**
 
-`From idea to production-grade agent — no fluff._`
+`From idea to production-grade agent_`
 
 <a href="https://akkaz.dev"><img src="https://img.shields.io/badge/akkaz.dev-09090b?style=flat-square&logo=vercel&logoColor=ff4017&labelColor=09090b" alt="akkaz.dev" /></a>
 <a href="https://www.linkedin.com/in/giomarcobaglioni"><img src="https://img.shields.io/badge/LinkedIn-09090b?style=flat-square&logo=linkedin&logoColor=ff4017&labelColor=09090b" alt="LinkedIn" /></a>
@@ -64,7 +64,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=akkaz&hide_border=true&disable_animations=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" />
+<img src="https://streak-stats.demolab.com?user=akkaz&hide_border=true&disable_animations=true&hide_total_contributions=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" />
 
 </div>
 
