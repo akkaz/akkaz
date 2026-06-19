@@ -18,6 +18,16 @@
 
 ---
 
+<div align="center">
+
+`akkaz@valcamonica:~$ cat last-night.log`
+
+> <!-- DAILY:START -->_Booting the daily-note bot… first line lands tomorrow._<!-- DAILY:END -->
+
+</div>
+
+---
+
 ### `~/ stack`
 
 <p>
