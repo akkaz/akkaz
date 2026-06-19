@@ -22,7 +22,7 @@
 
 `akkaz@valcamonica:~$ cat last-night.log`
 
-> <!-- DAILY:START -->_Booting the daily-note bot… first line lands tomorrow._<!-- DAILY:END -->
+> <!-- DAILY:START -->_Stanotte ho insegnato buon senso a un agente AI invece di dormire. Risultato: boh._<!-- DAILY:END -->
 
 </div>
 
