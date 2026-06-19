@@ -8,12 +8,6 @@
   <img src="./assets/github-header.png" alt="Gio Marco Baglioni — AI Engineer & Full-Stack Developer" width="100%" />
 </a>
 
-<br/><br/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=600&size=21&duration=2800&pause=900&color=FF4017&center=true&vCenter=true&width=820&height=42&lines=Agenti+AI%2C+multi-agent+e+RAG+in+produzione_;Dall'idea+all'agente%2C+senza+fuffa_;10%2B+anni+di+sviluppo+%E2%86%92+all-in+sull'AI_;Porto+l'AI+che+funziona+anche+in+montagna_" alt="typing" />
-</a>
-
 <br/>
 
 <a href="https://akkaz.dev"><img src="https://img.shields.io/badge/akkaz.dev-09090b?style=flat-square&logo=vercel&logoColor=ff4017&labelColor=09090b" alt="akkaz.dev" /></a>
