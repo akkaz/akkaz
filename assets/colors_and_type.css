@@ -1,0 +1,248 @@
+/* ============================================================
+   akkaz.dev — Colors + Type tokens
+   Source: src/app/globals.css in akkaz/AIportfolio
+   Fonts: DM Sans (body) + Geist Mono (mono/heading) loaded via
+   Google Fonts in fonts.css.
+   ============================================================ */
+
+@import url('./fonts.css');
+
+:root {
+  /* ---------- BRAND ---------- */
+  --brand:       #ff4017;       /* coral red — the single accent in the UI */
+  --brand-light: #ff6640;
+  --brand-dark:  #e63610;
+
+  /* ---------- NEUTRALS (zinc scale, light) ---------- */
+  --zinc-50:  #fafafa;
+  --zinc-100: #f4f4f5;
+  --zinc-200: #e4e4e7;
+  --zinc-300: #d4d4d8;
+  --zinc-400: #a1a1aa;
+  --zinc-500: #71717a;
+  --zinc-600: #52525b;
+  --zinc-700: #3f3f46;
+  --zinc-800: #27272a;
+  --zinc-900: #18181b;
+  --zinc-950: #09090b;
+
+  /* ---------- SEMANTIC (light theme — matches globals.css) ---------- */
+  --radius: 0.625rem;                                /* 10px base radius */
+  --background:        #f0f0f0;
+  --foreground:        oklch(0.141 0.005 285.823);   /* ~zinc-900 */
+  --card:              #ffffff;
+  --card-foreground:   oklch(0.141 0.005 285.823);
+  --popover:           #ffffff;
+  --popover-foreground:oklch(0.141 0.005 285.823);
+  --primary:           oklch(0.21 0.006 285.885);    /* ~zinc-800 */
+  --primary-foreground:oklch(0.985 0 0);
+  --secondary:         oklch(0.967 0.001 286.375);
+  --secondary-foreground: oklch(0.21 0.006 285.885);
+  --muted:             oklch(0.967 0.001 286.375);
+  --muted-foreground:  oklch(0.552 0.016 285.938);   /* ~zinc-500 */
+  --accent:            oklch(0.967 0.001 286.375);
+  --accent-foreground: oklch(0.21 0.006 285.885);
+  --destructive:       oklch(0.577 0.245 27.325);
+  --border:            oklch(0.92 0.004 286.32);     /* zinc-200 */
+  --input:             oklch(0.92 0.004 286.32);
+  --ring:              oklch(0.705 0.015 286.067);
+
+  /* ---------- FOREGROUND LEVELS (alias) ---------- */
+  --fg-1: var(--zinc-800);          /* body text on light */
+  --fg-2: var(--zinc-500);          /* paragraphs, descriptions */
+  --fg-3: var(--zinc-400);          /* captions, tertiary */
+  --fg-muted: var(--muted-foreground);
+
+  /* ---------- BORDER LEVELS ---------- */
+  --border-subtle: rgba(228, 228, 231, 0.6);   /* zinc-200/60 */
+  --border-strong: var(--zinc-200);
+
+  /* ---------- TYPOGRAPHY ---------- */
+  --font-sans:    'DM Sans', ui-sans-serif, system-ui, sans-serif;
+  --font-mono:    'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --font-heading: var(--font-mono);  /* headings use mono — core to identity */
+
+  /* ---------- TRACKING / LETTER-SPACING ---------- */
+  /* The recurring micro-label style is uppercase mono, 10-11px, tracking-[0.12em] */
+  --tracking-label:  0.12em;         /* tiny uppercase mono labels */
+  --tracking-button: 0.04em;         /* button text */
+  --tracking-tight:  -0.02em;        /* display / H1 */
+  --tracking-wider:  0.06em;         /* small caps headings */
+
+  /* ---------- RADII ---------- */
+  --radius-sm: calc(var(--radius) - 4px);   /* ~6px  — small controls */
+  --radius-md: calc(var(--radius) - 2px);   /* ~8px  — buttons, chips */
+  --radius-lg: var(--radius);               /* ~10px — cards, inputs */
+  --radius-xl: calc(var(--radius) + 4px);   /* ~14px — large cards */
+
+  /* ---------- SHADOWS ---------- */
+  /* UI relies on subtle shadows + borders rather than strong elevation */
+  --shadow-xs: 0 1px 2px 0 rgb(0 0 0 / 0.04);
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05), 0 1px 1px 0 rgb(0 0 0 / 0.04);
+  --shadow-md: 0 4px 10px -2px rgb(0 0 0 / 0.06), 0 2px 4px -2px rgb(0 0 0 / 0.05);
+  --shadow-lg: 0 10px 24px -6px rgb(0 0 0 / 0.10), 0 4px 8px -4px rgb(0 0 0 / 0.06);
+
+  /* ---------- SPACING (4px grid) ---------- */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.25rem;
+  --space-6: 1.5rem;
+  --space-8: 2rem;
+  --space-10: 2.5rem;
+  --space-12: 3rem;
+  --space-16: 4rem;
+  --space-20: 5rem;
+  --space-24: 6rem;
+
+  /* ---------- LAYOUT ---------- */
+  --container-max: 64rem;            /* max-w-5xl — primary content width */
+  --container-wide: 72rem;            /* max-w-6xl — structural rails */
+
+  /* ---------- EASING ---------- */
+  /* Signature easing seen across landing page motion */
+  --ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
+}
+
+/* ---------- DARK THEME ---------- */
+.dark,
+[data-theme='dark'] {
+  --brand:       #ff5a33;
+  --brand-light: #ff7a5a;
+  --brand-dark:  #e04020;
+
+  --background:        oklch(0.141 0.005 285.823);   /* ~zinc-950 */
+  --foreground:        oklch(0.985 0 0);
+  --card:              oklch(0.21 0.006 285.885);    /* ~zinc-900 */
+  --card-foreground:   oklch(0.985 0 0);
+  --popover:           oklch(0.21 0.006 285.885);
+  --popover-foreground:oklch(0.985 0 0);
+  --primary:           oklch(0.92 0.004 286.32);
+  --primary-foreground:oklch(0.21 0.006 285.885);
+  --secondary:         oklch(0.274 0.006 286.033);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted:             oklch(0.274 0.006 286.033);
+  --muted-foreground:  oklch(0.705 0.015 286.067);
+  --accent:            oklch(0.274 0.006 286.033);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive:       oklch(0.704 0.191 22.216);
+  --border:            rgba(255, 255, 255, 0.10);
+  --input:             rgba(255, 255, 255, 0.15);
+  --ring:              oklch(0.552 0.016 285.938);
+
+  --fg-1: var(--zinc-100);
+  --fg-2: var(--zinc-400);
+  --fg-3: var(--zinc-500);
+  --border-subtle: rgba(63, 63, 70, 0.4);
+  --border-strong: var(--zinc-700);
+}
+
+/* ============================================================
+   SEMANTIC TYPE ROLES (element-level)
+   Use: .h1, .h2, p, code, .label, .mono-label, .display, etc
+   ============================================================ */
+
+html, body {
+  font-family: var(--font-sans);
+  color: var(--foreground);
+  background: var(--background);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.display,
+h1.display {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: clamp(2.5rem, 6vw, 4.5rem);   /* ~40–72px */
+  line-height: 1.05;
+  letter-spacing: var(--tracking-tight);
+  color: var(--fg-1);
+}
+
+h1, .h1 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: clamp(2rem, 4vw, 3rem);       /* 32–48px */
+  line-height: 1.1;
+  letter-spacing: var(--tracking-tight);
+  color: var(--fg-1);
+}
+
+h2, .h2 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: clamp(1.5rem, 3vw, 2.25rem);  /* 24–36px */
+  line-height: 1.15;
+  letter-spacing: var(--tracking-tight);
+  color: var(--fg-1);
+}
+
+h3, .h3 {
+  font-family: var(--font-heading);
+  font-weight: 600;
+  font-size: 1.125rem;                     /* 18px */
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-button);
+  color: var(--fg-1);
+}
+
+h4, .h4 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  font-size: 0.75rem;                      /* 12px */
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-wider);
+  color: var(--fg-1);
+}
+
+p, .p {
+  font-family: var(--font-sans);
+  font-size: 1.125rem;                     /* 18–20 lead paragraphs */
+  line-height: 1.6;
+  color: var(--fg-2);
+}
+
+.p-sm {
+  font-size: 0.875rem;
+  line-height: 1.55;
+  color: var(--fg-2);
+}
+
+/* Uppercase mono micro-label — the signature "category" stamp */
+.mono-label {
+  font-family: var(--font-mono);
+  font-size: 0.625rem;                      /* 10px */
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-label);
+  color: var(--fg-muted);
+  line-height: 1;
+}
+
+/* Button / chip mono caption */
+.mono-caption {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;                       /* 12px */
+  text-transform: uppercase;
+  letter-spacing: var(--tracking-button);
+  color: var(--fg-2);
+}
+
+/* Inline code + mono body text */
+code, .code, .mono-body {
+  font-family: var(--font-mono);
+  font-size: 0.875rem;
+  color: var(--fg-1);
+}
+
+/* Blinking cursor (hero / section titles) */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50%      { opacity: 0; }
+}
+.cursor-blink {
+  color: var(--brand);
+  animation: blink 1s step-end infinite;
+  font-family: var(--font-mono);
+}
