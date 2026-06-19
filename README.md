@@ -106,12 +106,12 @@ akkaz@valcamonica:~$ cat ~/about.txt
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=akkaz&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&cache_seconds=21600&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaz&layout=compact&hide_border=true&langs_count=8&cache_seconds=21600&bg_color=09090b&title_color=ff4017&text_color=a1a1aa" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=akkaz&show_icons=true&hide_border=true&disable_animations=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&bg_color=09090b&title_color=ff4017&text_color=a1a1aa&icon_color=ff4017" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkaz&layout=compact&hide_border=true&disable_animations=true&langs_count=8&bg_color=09090b&title_color=ff4017&text_color=a1a1aa" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=akkaz&hide_border=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" />
+<img src="https://streak-stats.demolab.com?user=akkaz&hide_border=true&disable_animations=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" />
 
 </div>
 
