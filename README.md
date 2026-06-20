@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho insegnato buon senso a un agente AI invece di dormire. Risultato: boh._
+> _Stanotte ho deployato in produzione invece di dormire. Tre minuti di paura totale._
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 20/06/2026, 01:18</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 20/06/2026, 08:04</sub>
 <!-- DAILY:END -->
 
 ---
