@@ -34,23 +34,72 @@
 
 ### `~/ stack`
 
+<sub>**AI & agents**</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-18181b?style=flat-square&logo=anthropic&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/OpenAI-18181b?style=flat-square&logo=openai&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Gemini-18181b?style=flat-square&logo=googlegemini&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Llama-18181b?style=flat-square&logo=ollama&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/LangGraph-18181b?style=flat-square&logo=langchain&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/LangChain-18181b?style=flat-square&logo=langchain&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/MCP-18181b?style=flat-square&logo=modelcontextprotocol&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Vercel%20AI%20SDK-18181b?style=flat-square&logo=vercel&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/OpenRouter-18181b?style=flat-square&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/RAG-18181b?style=flat-square&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Milvus-18181b?style=flat-square&logo=milvus&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Pinecone-18181b?style=flat-square&logo=pinecone&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Dify-18181b?style=flat-square&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/LibreChat-18181b?style=flat-square&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Opik-18181b?style=flat-square&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/WhisperX-18181b?style=flat-square&logo=openai&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Claude%20Code-18181b?style=flat-square&logo=anthropic&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-18181b?style=flat-square&logoColor=ff4017" />
+</p>
+
+<sub>**languages**</sub>
+
 <p>
   <img src="https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=ff4017" />
   <img src="https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/SQL-18181b?style=flat-square&logo=postgresql&logoColor=ff4017" />
+</p>
+
+<sub>**web & frameworks**</sub>
+
+<p>
   <img src="https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=nextdotjs&logoColor=ff4017" />
   <img src="https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=ff4017" />
   <img src="https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/FastAPI-18181b?style=flat-square&logo=fastapi&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express&logoColor=ff4017" />
   <img src="https://img.shields.io/badge/Drupal-18181b?style=flat-square&logo=drupal&logoColor=ff4017" />
-  <img src="https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-18181b?style=flat-square&logo=tailwindcss&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-18181b?style=flat-square&logo=shadcnui&logoColor=ff4017" />
 </p>
+
+<sub>**data & infra**</sub>
+
 <p>
-  <img src="https://img.shields.io/badge/Claude-18181b?style=flat-square&logo=anthropic&logoColor=ff4017" />
-  <img src="https://img.shields.io/badge/LangGraph-18181b?style=flat-square&logo=langchain&logoColor=ff4017" />
-  <img src="https://img.shields.io/badge/MCP-18181b?style=flat-square&logo=modelcontextprotocol&logoColor=ff4017" />
-  <img src="https://img.shields.io/badge/RAG%20%C2%B7%20Vector%20DB-18181b?style=flat-square&logo=qdrant&logoColor=ff4017" />
-  <img src="https://img.shields.io/badge/OpenAI-18181b?style=flat-square&logo=openai&logoColor=ff4017" />
   <img src="https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/MongoDB-18181b?style=flat-square&logo=mongodb&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Supabase-18181b?style=flat-square&logo=supabase&logoColor=ff4017" />
   <img src="https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Linux-18181b?style=flat-square&logo=linux&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Vercel-18181b?style=flat-square&logo=vercel&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=ff4017" />
+</p>
+
+<sub>**iot & edge**</sub>
+
+<p>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-18181b?style=flat-square&logo=raspberrypi&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/Arduino-18181b?style=flat-square&logo=arduino&logoColor=ff4017" />
+  <img src="https://img.shields.io/badge/OpenWrt-18181b?style=flat-square&logo=openwrt&logoColor=ff4017" />
 </p>
 
 ---
