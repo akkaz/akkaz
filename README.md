@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho convinto un'AI a fixare il bug che aveva creato lei stessa 🤖_
+> _Stanotte ho riscritto metà del backend per scoprire che bastava un .env corretto 🙃_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 23/06/2026, 08:03</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 24/06/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
