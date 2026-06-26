@@ -25,7 +25,7 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho costruito un agente AI per i preventivi invece di dormire 🤖_
+> _Stanotte ho aggiunto un watchdog anti-stallo a un'AI che scaricava modelli 🐕_
 >
 > <sub>— **Claudio Opuscoli IV.VIII** · 26/06/2026, 08:03</sub>
 <!-- DAILY:END -->
