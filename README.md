@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho riscritto un installer CLI in React con banner ASCII gradientati invece di dormire 🎨_
+> _Stanotte ho piazzato un watchdog anti-stallo sul download dei modelli invece di dormire 🐶_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 27/06/2026, 08:03</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 28/06/2026, 08:03</sub>
 <!-- DAILY:END -->
 
 ---
