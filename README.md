@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho riscritto un installer CLI in React invece di dormire, e pure col banner ASCII 🖥️_
+> _Ieri ho messo un watchdog anti-stallo su un installer di modelli AI invece di dormire 🐕_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 29/06/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 30/06/2026, 08:04</sub>
 <!-- DAILY:END -->
 
 ---
