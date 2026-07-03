@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho costruito un installer CLI in React con banner ASCII invece di dormire 🎨_
+> _Stanotte ho insegnato a un agente AI a capire i sarcasmi italiani invece di dormire 🤌_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 01/07/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 03/07/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
