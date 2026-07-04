@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho insegnato a un agente AI a capire i sarcasmi italiani invece di dormire 🤌_
+> _Stanotte ho ottimizzato una query che già andava benissimo, invece di dormire 🌙_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 03/07/2026, 08:02</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 04/07/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
