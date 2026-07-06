@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho costruito un giornalista artificiale invece di leggere un giornale_
+> _Stanotte ho configurato un MCP server invece di guardare una serie TV_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 05/07/2026, 08:03</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 06/07/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
