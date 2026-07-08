@@ -1,0 +1,29 @@
+name: generate streak stats
+
+on:
+  schedule:
+    - cron: "30 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: fetch streak svg
+        run: |
+          mkdir -p dist
+          curl -sf --retry 5 --retry-delay 15 --max-time 60 \
+            "https://streak-stats.demolab.com?user=akkaz&hide_border=true&disable_animations=true&hide_total_contributions=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" \
+            -o dist/streak.svg
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

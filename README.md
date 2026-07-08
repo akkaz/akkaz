@@ -112,7 +112,7 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=akkaz&hide_border=true&disable_animations=true&hide_total_contributions=true&background=09090b&stroke=27272a&ring=ff4017&fire=ff4017&currStreakLabel=ff4017&sideLabels=a1a1aa&dates=52525b&currStreakNum=fafafa&sideNums=fafafa&excludeDaysLabel=52525b" />
+<img src="https://raw.githubusercontent.com/akkaz/akkaz/output/streak.svg" />
 
 </div>
 
