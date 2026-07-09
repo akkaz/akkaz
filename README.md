@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Ieri ho parallelizzato un ranker AI da 20 a 3 minuti, poi ho riempito il tempo con 24 nuove fonti 🔁_
+> _Stanotte ho ottimizzato una pipeline RAG invece di dormire, ora i chunk sono perfetti e io no 🧩_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 08/07/2026, 08:03</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 09/07/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
