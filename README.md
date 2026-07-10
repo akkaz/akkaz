@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho ottimizzato una pipeline RAG invece di dormire, ora i chunk sono perfetti e io no 🧩_
+> _Stanotte ho insegnato a un giornale AI che una notizia basta scriverla una volta 🗞️_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 09/07/2026, 08:02</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 10/07/2026, 08:04</sub>
 <!-- DAILY:END -->
 
 ---
