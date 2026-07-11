@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho insegnato a un giornale AI che una notizia basta scriverla una volta 🗞️_
+> _Stanotte ho convinto un agente AI che no, "forse" non è una risposta utile 🙃_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 10/07/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 11/07/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
