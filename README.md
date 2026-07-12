@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho convinto un agente AI che no, "forse" non è una risposta utile 🙃_
+> _Stanotte ho riscritto da zero una funzione di tre righe perché 'si poteva fare meglio' 🫠_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 11/07/2026, 08:02</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 12/07/2026, 08:03</sub>
 <!-- DAILY:END -->
 
 ---
