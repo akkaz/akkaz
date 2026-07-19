@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho rimosso tutti i window.confirm da un gestionale: bloccavano l'automazione alle 3 🤖_
+> _Stanotte ho insegnato a un LLM a fare l'oroscopo per un giornale invece di dormire 🔮_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 18/07/2026, 08:03</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 19/07/2026, 08:03</sub>
 <!-- DAILY:END -->
 
 ---
