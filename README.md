@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho insegnato a un LLM a fare l'oroscopo per un giornale invece di dormire 🔮_
+> _Stanotte ho debuggato per due ore un bug che era un punto e virgola mancante invece di dormire_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 19/07/2026, 08:03</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 20/07/2026, 08:06</sub>
 <!-- DAILY:END -->
 
 ---
