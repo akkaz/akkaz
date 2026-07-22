@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho ottimizzato una query che nessuno aveva mai lamentato invece di dormire 🔧_
+> _Stanotte ho discusso con un LLM su quale nome dare a una variabile invece di dormire 💬_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 21/07/2026, 08:07</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 22/07/2026, 08:04</sub>
 <!-- DAILY:END -->
 
 ---
