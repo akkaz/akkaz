@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho discusso con un LLM su quale nome dare a una variabile invece di dormire 💬_
+> _Stanotte ho scoperto che un AI ignora i prompt lunghi e ti restituisce l'originale 😐_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 22/07/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 23/07/2026, 08:05</sub>
 <!-- DAILY:END -->
 
 ---
