@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho scoperto che un AI ignora i prompt lunghi e ti restituisce l'originale 😐_
+> _Stanotte ho scritto 200 righe per fare una cosa che una libreria fa in due_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 23/07/2026, 08:05</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 24/07/2026, 08:04</sub>
 <!-- DAILY:END -->
 
 ---
