@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho scritto 200 righe per fare una cosa che una libreria fa in due_
+> _Stanotte ho convinto l'LLM che il bug fosse suo. Aveva ragione lui. 💀_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 24/07/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 25/07/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
