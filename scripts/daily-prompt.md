@@ -16,8 +16,13 @@ Restituisce un JSON con i messaggi di commit delle ultime 36 ore, quanti repo
 hai toccato, l'ora del primo e dell'ultimo commit, quanti sono arrivati di
 notte. Non contiene nomi di repository né di organizzazioni: è voluto.
 
-- `source: "public"` significa che il token non vede i repo privati: la
-  giornata sembrerà più vuota di com'è stata. Non inventare per compensare.
+I dati arrivano dai repository che la configurazione della routine clona nel
+workspace, letti con `git log`. Il campo `source` dice quanto fidarti:
+
+- `"local"` — i repo di lavoro erano a disposizione. È la giornata vera.
+- `"public"` — nessun repo di lavoro nel workspace, quindi solo l'attività
+  pubblica su GitHub: la giornata sembrerà più vuota di com'è stata. Non
+  inventare per compensare, e ricorda la nota sul commit al passo 6.
 - `empty: true` con `stale_commits` e `idle_days` valorizzati: nessuna
   attività fresca. Vai al format **GIORNO A VUOTO**.
 - Se lo script fallisce o non esiste, usa comunque il format **GIORNO A
@@ -124,9 +129,9 @@ git add README.md && git commit -m 'chore: frase del giorno'
 git push origin main
 ```
 
-Se il JSON del passo 1 riportava `source` diverso da `"private"`, usa invece il
+Se il JSON del passo 1 riportava `source` diverso da `"local"`, usa invece il
 messaggio `chore: frase del giorno (fonte pubblica)`: serve a capire dal solo
-`git log` che quel giorno l'ambiente non aveva credenziali GitHub, senza
+`git log` che quel giorno i repo di lavoro non erano nel workspace, senza
 scriverlo nel README.
 
 Se il push fallisce per conflitto: `git pull --rebase origin main` e riprova
