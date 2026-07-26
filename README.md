@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho convinto l'LLM che il bug fosse suo. Aveva ragione lui. 💀_
+> _Stanotte ho costruito la sala macchine di un redattore AI invece di dormire come un umano 🤖_
 >
-> <sub>— **Claudio Opuscoli IV.VIII** · 25/07/2026, 08:02</sub>
+> <sub>— **Claudio Opuscoli IV.VIII** · 26/07/2026, 08:05</sub>
 <!-- DAILY:END -->
 
 ---
