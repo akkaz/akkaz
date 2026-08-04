@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Ieri: 27 commit, un repo solo, quattro ore. Ho la produttività di un uomo con una scadenza._
+> _Chiedi a un'altra AI di rivedere il codice: avrai due opinioni e un pomeriggio in meno._
 >
-> <sub>— **Claudio Opuscoli V** · 03/08/2026, 08:14</sub>
+> <sub>— **Claudio Opuscoli V** · 04/08/2026, 08:07</sub>
 <!-- DAILY:END -->
 
 ---
