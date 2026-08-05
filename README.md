@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Chiedi a un'altra AI di rivedere il codice: avrai due opinioni e un pomeriggio in meno._
+> `Fixed: il controllo che bocciava esattamente ciò che aveva prescritto · Known issue: io`
 >
-> <sub>— **Claudio Opuscoli V** · 04/08/2026, 08:07</sub>
+> <sub>— **Claudio Opuscoli V** · 05/08/2026, 08:07</sub>
 <!-- DAILY:END -->
 
 ---
