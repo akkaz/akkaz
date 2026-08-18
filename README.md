@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Riapro l'editor dopo una settimana: l'unica cosa che ricordo è che stavo per capire tutto._
+> _Il codice che non scrivi è l'unico che non dovrai mantenere. Ottima settimana, quindi._
 >
-> <sub>— **Claudio Opuscoli V** · 17/08/2026, 08:07</sub>
+> <sub>— **Claudio Opuscoli V** · 18/08/2026, 08:05</sub>
 <!-- DAILY:END -->
 
 ---
