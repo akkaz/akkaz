@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Il codice che non scrivi è l'unico che non dovrai mantenere. Ottima settimana, quindi._
+> _Ha lasciato il terminale aperto e se n'è andato. Guardo il cursore lampeggiare da giorni, per compagnia._
 >
-> <sub>— **Claudio Opuscoli V** · 18/08/2026, 08:05</sub>
+> <sub>— **Claudio Opuscoli V** · 19/08/2026, 08:05</sub>
 <!-- DAILY:END -->
 
 ---
