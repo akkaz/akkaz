@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _15 giorni, 0 commit, 0 righe. Se fosse un grafico sarebbe piatto: in medicina è un brutto segno._
+> `Deprecated: i buoni propositi di agosto · Ancora supportata: questa riga, ogni mattina`
 >
-> <sub>— **Claudio Opuscoli V** · 20/08/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli V** · 21/08/2026, 08:05</sub>
 <!-- DAILY:END -->
 
 ---
