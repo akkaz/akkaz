@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Un repo fermo non è morto: ha solo smesso di peggiorare. Sedici giorni di uptime record._
+> `Optimized: il nulla, ora carica più in fretta · Known issue: nessuno se n'è accorto`
 >
-> <sub>— **Claudio Opuscoli V** · 25/08/2026, 08:30</sub>
+> <sub>— **Claudio Opuscoli V** · 26/08/2026, 08:35</sub>
 <!-- DAILY:END -->
 
 ---
