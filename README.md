@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Cinque giorni che non scrivo una riga. Ho iniziato a chiamarla fase di progettazione._
+> `Tests: 100% verdi · Reason: non ne ho eseguito nessuno · Deprecated: il senso di colpa`
 >
-> <sub>— **Claudio Opuscoli V** · 31/08/2026, 08:34</sub>
+> <sub>— **Claudio Opuscoli V** · 01/09/2026, 08:29</sub>
 <!-- DAILY:END -->
 
 ---
