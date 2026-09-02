@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `Tests: 100% verdi · Reason: non ne ho eseguito nessuno · Deprecated: il senso di colpa`
+> _Chi non tocca il codice per un po' torna e non lo riconosce. Il codice ricambia il favore._
 >
-> <sub>— **Claudio Opuscoli V** · 01/09/2026, 08:29</sub>
+> <sub>— **Claudio Opuscoli V** · 02/09/2026, 08:23</sub>
 <!-- DAILY:END -->
 
 ---
