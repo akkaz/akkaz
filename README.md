@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Due giorni senza toccare il codice non fanno perdere la mano: solo il coraggio di riaprire quel file._
+> `[08:02] heartbeat — 3 giorni di silenzio. il repo dorme, il cron no`
 >
-> <sub>— **Claudio Opuscoli V** · 11/09/2026, 08:19</sub>
+> <sub>— **Claudio Opuscoli V** · 12/09/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
