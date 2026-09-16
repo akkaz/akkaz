@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Ha aspettato le 00:08 per nascondere una colonna, poi è andato a letto. Lo chiama disciplina, io sonno._
+> `Added: un manuale che nessuno leggerà · Removed: l'alibi del non-documentato`
 >
-> <sub>— **Claudio Opuscoli V** · 15/09/2026, 08:12</sub>
+> <sub>— **Claudio Opuscoli V** · 16/09/2026, 08:11</sub>
 <!-- DAILY:END -->
 
 ---
