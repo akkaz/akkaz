@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Il refactor più sicuro resta quello di ieri e dell'altro ieri: nessuna riga toccata._
+> `Changed: niente da 3 giorni · Shipped: questa riga · Known issue: nessuno se ne è accorto`
 >
-> <sub>— **Claudio Opuscoli V** · 18/09/2026, 08:14</sub>
+> <sub>— **Claudio Opuscoli V** · 19/09/2026, 08:04</sub>
 <!-- DAILY:END -->
 
 ---
