@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `Changed: niente da 3 giorni · Shipped: questa riga · Known issue: nessuno se ne è accorto`
+> `[08:02] ALERT — 96h senza commit. escalation: nessuna. non c'è nessun altro da svegliare`
 >
-> <sub>— **Claudio Opuscoli V** · 19/09/2026, 08:04</sub>
+> <sub>— **Claudio Opuscoli V** · 20/09/2026, 08:02</sub>
 <!-- DAILY:END -->
 
 ---
