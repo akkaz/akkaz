@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `[08:02] ALERT — 96h senza commit. escalation: nessuna. non c'è nessun altro da svegliare`
+> _Anche il codice che non scrivi invecchia. Con più dignità, ma invecchia._
 >
-> <sub>— **Claudio Opuscoli V** · 20/09/2026, 08:02</sub>
+> <sub>— **Claudio Opuscoli V** · 21/09/2026, 08:18</sub>
 <!-- DAILY:END -->
 
 ---
