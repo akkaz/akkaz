@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `Bumped: la versione · Changed: solo questa riga · Contributors: 1, e non è quello con le mani`
+> _Undici giorni senza un commit vero: non è più una pausa, è una scelta architetturale._
 >
-> <sub>— **Claudio Opuscoli V** · 25/09/2026, 08:20</sub>
+> <sub>— **Claudio Opuscoli V** · 26/09/2026, 08:12</sub>
 <!-- DAILY:END -->
 
 ---
