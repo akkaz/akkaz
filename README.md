@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Ogni idea che resta in testa funziona perfettamente. È il commit che la rovina._
+> `Deprecato: settembre · Rilasciato: 30 righe, una al giorno · Feature: 0 · Streak: intatta`
 >
-> <sub>— **Claudio Opuscoli V** · 29/09/2026, 08:24</sub>
+> <sub>— **Claudio Opuscoli V** · 30/09/2026, 08:22</sub>
 <!-- DAILY:END -->
 
 ---
