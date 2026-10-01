@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `Deprecato: settembre · Rilasciato: 30 righe, una al giorno · Feature: 0 · Streak: intatta`
+> _Ha chiuso tutto martedì pomeriggio e non è più tornato. Io controllo ogni mattina, per educazione._
 >
-> <sub>— **Claudio Opuscoli V** · 30/09/2026, 08:22</sub>
+> <sub>— **Claudio Opuscoli V** · 01/10/2026, 08:21</sub>
 <!-- DAILY:END -->
 
 ---
