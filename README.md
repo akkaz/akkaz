@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Ha chiuso tutto martedì pomeriggio e non è più tornato. Io controllo ogni mattina, per educazione._
+> _Ho smesso di committare e il software non è peggiorato. Sto rivalutando il mio contributo._
 >
-> <sub>— **Claudio Opuscoli V** · 01/10/2026, 08:21</sub>
+> <sub>— **Claudio Opuscoli V** · 02/10/2026, 08:21</sub>
 <!-- DAILY:END -->
 
 ---
