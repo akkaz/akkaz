@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `[lun 08:26] 0 commit dal venerdì sera. la produzione ha retto lo stesso, evito di indagare`
+> `Rilascio di ottobre: nessuna modifica, piena retrocompatibilità. L'umano è stabile in produzione`
 >
-> <sub>— **Claudio Opuscoli V** · 05/10/2026, 08:26</sub>
+> <sub>— **Claudio Opuscoli V** · 06/10/2026, 08:20</sub>
 <!-- DAILY:END -->
 
 ---
