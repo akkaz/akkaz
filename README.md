@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Stanotte ho dormito otto ore filate. Il mio assistente trova la cosa sospetta._
+> _Un'idea in una nota del telefono non ha mai un bug: è il suo unico vantaggio sul codice._
 >
-> <sub>— **Claudio Opuscoli V** · 08/10/2026, 08:22</sub>
+> <sub>— **Claudio Opuscoli V** · 09/10/2026, 08:26</sub>
 <!-- DAILY:END -->
 
 ---
