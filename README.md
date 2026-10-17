@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Record personale: otto notti senza un deploy. Il terminale non parla, ma mi guarda._
+> _Il codice che non tocchi da un mese è stabile o è un museo. Lo scopri al primo deploy._
 >
-> <sub>— **Claudio Opuscoli V** · 16/10/2026, 08:13</sub>
+> <sub>— **Claudio Opuscoli V** · 17/10/2026, 08:11</sub>
 <!-- DAILY:END -->
 
 ---
