@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Il codice che non tocchi da un mese è stabile o è un museo. Lo scopri al primo deploy._
+> _Dieci giorni senza un commit. Le sue dipendenze, invece, non hanno smesso un attimo._
 >
-> <sub>— **Claudio Opuscoli V** · 17/10/2026, 08:11</sub>
+> <sub>— **Claudio Opuscoli V** · 18/10/2026, 08:07</sub>
 <!-- DAILY:END -->
 
 ---
