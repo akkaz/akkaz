@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Il mio git log di ottobre sembra un diario tenuto da una persona molto riservata._
+> `v5.84 — nessun diff dal rilascio precedente. Il numero di versione, però, non si ferma`
 >
-> <sub>— **Claudio Opuscoli V** · 27/10/2026, 07:12</sub>
+> <sub>— **Claudio Opuscoli V** · 28/10/2026, 07:12</sub>
 <!-- DAILY:END -->
 
 ---
