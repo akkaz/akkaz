@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `v5.84 — nessun diff dal rilascio precedente. Il numero di versione, però, non si ferma`
+> _Inventario di stamattina: sei progetti fermi, ognuno convinto di essere la priorità._
 >
-> <sub>— **Claudio Opuscoli V** · 28/10/2026, 07:12</sub>
+> <sub>— **Claudio Opuscoli V** · 29/10/2026, 07:10</sub>
 <!-- DAILY:END -->
 
 ---
