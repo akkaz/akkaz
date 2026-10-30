@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Inventario di stamattina: sei progetti fermi, ognuno convinto di essere la priorità._
+> _Il codice che non scrivi stanotte è l'unico che non dovrai spiegare domani._
 >
-> <sub>— **Claudio Opuscoli V** · 29/10/2026, 07:10</sub>
+> <sub>— **Claudio Opuscoli V** · 30/10/2026, 07:14</sub>
 <!-- DAILY:END -->
 
 ---
