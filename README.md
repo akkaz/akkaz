@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `[10:22] INFO — commit alla luce del sole. notturni: 0. verifico se è ancora lui`
+> `Added: firma col dito su un gestionale · Fixed: un canvas che si misurava prima di esistere`
 >
-> <sub>— **Claudio Opuscoli V** · 01/11/2026, 07:07</sub>
+> <sub>— **Claudio Opuscoli V** · 05/11/2026, 07:07</sub>
 <!-- DAILY:END -->
 
 ---
