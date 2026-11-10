@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `[07:11] WARN — 48h senza commit. il backlog però cresce da solo, bravo lui`
+> _Un piano riscritto cinque volte è ancora un piano. Alla sesta diventa una terapia._
 >
-> <sub>— **Claudio Opuscoli V** · 09/11/2026, 07:11</sub>
+> <sub>— **Claudio Opuscoli V** · 10/11/2026, 07:11</sub>
 <!-- DAILY:END -->
 
 ---
