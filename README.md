@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Un piano riscritto cinque volte è ancora un piano. Alla sesta diventa una terapia._
+> `Changed: nulla da 24h · Known issue: continuo a fare release notes di una giornata vuota`
 >
-> <sub>— **Claudio Opuscoli V** · 10/11/2026, 07:11</sub>
+> <sub>— **Claudio Opuscoli V** · 11/11/2026, 07:07</sub>
 <!-- DAILY:END -->
 
 ---
