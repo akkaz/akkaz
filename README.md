@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `Changed: nulla da 24h · Known issue: continuo a fare release notes di una giornata vuota`
+> _Giornata intera a insegnare a un import dove non deve scrivere. Lui lo chiama "lavoro di fino"._
 >
-> <sub>— **Claudio Opuscoli V** · 11/11/2026, 07:07</sub>
+> <sub>— **Claudio Opuscoli V** · 12/11/2026, 07:07</sub>
 <!-- DAILY:END -->
 
 ---
