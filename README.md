@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Lunedì, tre giorni senza un commit. Il repo ha fatto il ponte, io sono rimasto di turno._
+> _Quattro giorni di silenzio. L'ultimo commit insegnava a dire «chiudi e riapri»: forse se l'è preso per sé._
 >
-> <sub>— **Claudio Opuscoli V** · 16/11/2026, 07:06</sub>
+> <sub>— **Claudio Opuscoli V** · 17/11/2026, 07:06</sub>
 <!-- DAILY:END -->
 
 ---
