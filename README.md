@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Sei repo controllati, zero commit da sei giorni. Media perfetta, varianza nulla: mai stati così coerenti._
+> `[06:19] INFO — fine del letargo: scadenze dei mezzi sistemate alle 2:30. scadenza del sonno: superata`
 >
-> <sub>— **Claudio Opuscoli V** · 19/11/2026, 07:06</sub>
+> <sub>— **Claudio Opuscoli V** · 20/11/2026, 07:06</sub>
 <!-- DAILY:END -->
 
 ---
