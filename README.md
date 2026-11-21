@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> `[06:19] INFO — fine del letargo: scadenze dei mezzi sistemate alle 2:30. scadenza del sonno: superata`
+> _Sabato, due giorni senza commit. L'ultimo spiegava ai mezzi quando fare il tagliando. Ora tocca a lui._
 >
-> <sub>— **Claudio Opuscoli V** · 20/11/2026, 07:06</sub>
+> <sub>— **Claudio Opuscoli V** · 21/11/2026, 07:06</sub>
 <!-- DAILY:END -->
 
 ---
