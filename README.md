@@ -25,9 +25,9 @@
 </div>
 
 <!-- DAILY:START -->
-> _Cinque giorni di silenzio. I mezzi ora sono raggruppati per luogo; l'umano, per ora, non risulta in nessuno_
+> `Added: un verbale alle 14:56 · Fixed: sei giorni di silenzio · Known issue: zero righe di codice`
 >
-> <sub>— **Claudio Opuscoli V** · 24/11/2026, 07:06</sub>
+> <sub>— **Claudio Opuscoli V** · 25/11/2026, 07:06</sub>
 <!-- DAILY:END -->
 
 ---
